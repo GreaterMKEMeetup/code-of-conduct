@@ -1,5 +1,4 @@
-# Code of Conduct
-Greater Milwaukee Java Meetup - Code of Conduct
+# Code of Conduct - Greater Milwaukee Java Meetup
 
 The Greater Milwaukee Java Meetup (GMJM) is dedicated to providing a harassment-free community for everyone, regardless of  race, nationality, religious beliefs, disability, sex, gender identity or expression, sexual orientation, physical appearance, age, or body size. We do not tolerate harassment of community members in any form. Participants violating these rules may be sanctioned or expelled from the community at the discretion of the GMJM organizers.
 
